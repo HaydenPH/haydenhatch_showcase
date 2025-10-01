@@ -1,2 +1,2 @@
 # haydenhatch_showcase
-Showcasing learned technical skills
+Database Design and Implementation followed by Data Analysis in SQL
